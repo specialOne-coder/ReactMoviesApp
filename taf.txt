@@ -1,0 +1,11 @@
+npm install --save react-navigation
+npm install --save moment
+npm install --save numeral
+npm install --save redux
+npm install --save react-redux
+add emptyheart.png
+add heart.png 
+add search.png 
+
+ 
+
